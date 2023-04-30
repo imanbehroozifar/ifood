@@ -14,7 +14,8 @@ const Banner = () => {
                 <Link href='/menu'>See All</Link>
             </div>
             <div className={styles.right}>
-                <img src='https://s8.uupload.ir/files/banner_vc90.png' alt='img' />
+                <img src="/images/banner.png" alt='img' />
+                {/* https://s8.uupload.ir/files/banner_vc90.png */}
             </div>
         </div>
     )

@@ -13,7 +13,7 @@ const Layout = ({children}) => {
               </div>
           </header>
           <div className={styles.container}>{children}</div>
-          <footer className={styles.footer}>IFOOD | &copy; </footer>
+          <footer className={styles.footer}>IFOOD PROJECT | &copy; </footer>
       </>
   )
 }

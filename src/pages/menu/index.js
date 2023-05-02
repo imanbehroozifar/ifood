@@ -1,7 +1,7 @@
 import MenuPage from '@/components/templates/MenuPage/MenuPage'
 import React from 'react'
 
-const Menu = ({data}) => {
+const Menu = ({ data }) => {
     return (
         <MenuPage data={data} />
     )

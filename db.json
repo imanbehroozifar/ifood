@@ -395,7 +395,7 @@
         { "Recipe Type": "Rice" },
         { "Difficulty": "Easy" },
         { "Preparation Time": "10 mins" },
-        { "Cooking Time": "35 mins" },
+        { "Cooking Time": "60 mins" },
         { "Serves": "4" }
       ],
       "ingredients": [

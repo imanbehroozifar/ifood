@@ -5,7 +5,7 @@ import styles from './Card.module.css'
 
 const Card = (props) => {
   const { id, name, price, discount, details } = props
-  console.log(props)
+  
   return (
     <div className={styles.container}>
       <img src={`/images/${id}.jpeg`} alt={name} />
